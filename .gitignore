@@ -1,0 +1,16 @@
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Local environment files
+.env
+*.env
+
+# Large or temporary files
+*.tmp
+*.log
+
+# Hugging Face cache
+.cache/
